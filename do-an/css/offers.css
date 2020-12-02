@@ -1,0 +1,35 @@
+.facilities{
+    background-color: #EDEDED;
+}
+
+.facs{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.facs h6{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #606060;
+}
+
+.facs p{
+    font-size: 15px;
+}
+
+.btn{
+    margin-bottom: 10px;
+}
+
+.company h6{
+    text-align: center;
+    font-size: 25px;
+}
+
+.company img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
